@@ -1,2 +1,4 @@
 # pokus
-tohle je pokusny soubor REDME
+Tohle je pokusny soubor REDME
+- neco
+- neco2
