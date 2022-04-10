@@ -4,3 +4,6 @@ Tohle je pokusny soubor REDME
 - neco2
 - pridana dalsi radka
 - a pridana dalsi radka
+
+Ted zase update
+A dalsi update
