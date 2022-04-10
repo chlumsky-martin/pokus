@@ -7,3 +7,4 @@ Tohle je pokusny soubor REDME
 
 Ted zase update
 A dalsi update
+Zmena v new-release
