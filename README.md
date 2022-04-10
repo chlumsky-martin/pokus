@@ -6,4 +6,6 @@ Tohle je pokusny soubor REDME
 - a pridana dalsi radka
 
 Ted zase update
+
 A dalsi update
+- Zmena v main 
